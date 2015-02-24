@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "byline": "^4.1.1",
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "fibers": "^1.0.5",
     "interpret": "^0.4.2",
     "liftoff": "^2.0.0",
